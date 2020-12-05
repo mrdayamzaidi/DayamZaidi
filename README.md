@@ -4,7 +4,7 @@
 <img align='center' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="CoDiNg RocKs"  width="500"/>
 </div>
 
-<br><img src="https://komarev.com/ghpvc/?username=mrdayamzaidi-git&style=flat-square" alt="mrdayamzaidi" />
+<br><img src="https://komarev.com/ghpvc/?username=APXD-git&style=flat-square" alt="APXD-git" />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
 [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/mrdayamzaidi)
 
@@ -13,7 +13,7 @@
 - 🔭 I’m currently learning to <b>CODE</b>. <br>
 - 👀 I’m looking for help with <b>OPEN SOURCE</b>.
 - 💬 Ask me about anything, always ready to help.
-- 📫 Find me on Telegram - [⛦⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋм®⁪⁬⁮⁮⁮⁮ ‌‌‌᪣🇮🇳<~ĐåÿãmŽäïđï~>🇮🇳᪣ⓘ×«#ŤGVęřïfïēđGąñg©»⛥§Šťãřkßüčkš](https://t.me/mrdayamzaidi).
+- 📫 Find me on Telegram - [м®⁪⁬⁮⁮⁮⁮ ‌‌‌᪣🇮🇳<~ĐåÿãmŽäïđï~>🇮🇳᪣ⓘ×«#ŤGVęřïfïēđGąñg©»⛥§Šťãřkßüčkš](https://t.me/mrdayamzaidi).
 - ⚡ Fun fact: Banging your head against a wall for one hour burns <b>150</b> calories.
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
