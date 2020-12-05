@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
 [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/mrdayamzaidi)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrdayamzaidi-git&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="mrdayamzaidi" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrdayamzaidi&show_icons=true&count_private=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="mrdayamzaidi" />
 
 - 🔭 I’m currently learning to <b>CODE</b>. <br>
 - 👀 I’m looking for help with <b>OPEN SOURCE</b>.
